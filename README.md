@@ -1,1 +1,1 @@
-# Real-time-News-Analyst-agentic-MCP-
+# Real-time-News-Analyst-agentic-MCP
